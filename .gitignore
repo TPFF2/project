@@ -19,3 +19,13 @@ yarn-error.log
 /.vscode
 /composer.phar
 /git-flow-plus.config
+/.vagrant/machines/tpff-project/virtualbox/action_provision
+/.vagrant/machines/tpff-project/virtualbox/action_set_name
+/.vagrant/machines/tpff-project/virtualbox/box_meta
+/.vagrant/machines/tpff-project/virtualbox/creator_uid
+/.vagrant/machines/tpff-project/virtualbox/id
+/.vagrant/machines/tpff-project/virtualbox/index_uuid
+/.vagrant/rgloader/loader.rb
+/.vagrant/machines/tpff-project/virtualbox/private_key
+/.vagrant/machines/tpff-project/virtualbox/synced_folders
+/.vagrant/machines/tpff-project/virtualbox/vagrant_cwd
